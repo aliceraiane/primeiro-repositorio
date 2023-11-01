@@ -2,11 +2,16 @@ body{
     
 }
 
+img {
+    width: 100%;
+}
+
 h1 {
     text-align: center;
 }
 
 .principal{
+    
     background: #CCCCCC;
     padding: 30px;
 }
